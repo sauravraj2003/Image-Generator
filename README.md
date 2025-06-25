@@ -1,3 +1,4 @@
+## Image Generation using GAN 
 This project implements a Generative Adversarial Network (GAN) to generate synthetic fashion images using the Fashion-MNIST dataset.
 
 📦 Features
